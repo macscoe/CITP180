@@ -1,0 +1,5 @@
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog8\Chap1Prog8\bin\Debug\Chap1Prog8.exe.config
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog8\Chap1Prog8\bin\Debug\Chap1Prog8.exe
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog8\Chap1Prog8\bin\Debug\Chap1Prog8.pdb
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog8\Chap1Prog8\obj\Debug\Chap1Prog8.exe
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog8\Chap1Prog8\obj\Debug\Chap1Prog8.pdb

@@ -1,0 +1,5 @@
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog10\Chap1Prog10\bin\Debug\Chap1Prog10.exe.config
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog10\Chap1Prog10\bin\Debug\Chap1Prog10.exe
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog10\Chap1Prog10\bin\Debug\Chap1Prog10.pdb
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog10\Chap1Prog10\obj\Debug\Chap1Prog10.exe
+c:\users\moyem1\documents\visual studio 2017\Projects\Chap1Prog10\Chap1Prog10\obj\Debug\Chap1Prog10.pdb
